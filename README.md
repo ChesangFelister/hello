@@ -1,0 +1,2 @@
+# hello
+python class work
